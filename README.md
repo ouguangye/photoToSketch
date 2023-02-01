@@ -12,8 +12,4 @@
 
 ## 运行结果
 
-![a](https://user-images.githubusercontent.com/78332649/215319335-fc1b3c13-cdf6-4f58-82dc-74d27550fae9.jpg)
-![b](https://user-images.githubusercontent.com/78332649/215319336-aba667db-a742-4eb2-8a12-ca88d7fbf5b9.jpg)
-![c](https://user-images.githubusercontent.com/78332649/215319337-a706296b-b8e9-42e2-afdc-1c029a996d0c.jpg)
-![d](https://user-images.githubusercontent.com/78332649/215319338-783c02c8-dea5-4d0a-90f0-73cb999490c6.jpg)
-![g](https://user-images.githubusercontent.com/78332649/215319340-4a9f2656-ecfa-4558-92aa-a73a7849da7e.jpg)
+![image](https://user-images.githubusercontent.com/78332649/216051734-8164e47e-5302-43c9-931a-51669ebeac1c.png)
